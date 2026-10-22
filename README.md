@@ -45,7 +45,7 @@ These values and interface names are examples. Confirm the ports and device capa
 
 ## Getting started
 
-1. Download or open `clidoc.html` in a web browser.
+1. Download or open `index.html` in a web browser.
 2. Follow the table of contents in order, entering the commands in the Packet Tracer device CLI.
 3. Verify each change with the suggested `show` commands.
 4. Save your Packet Tracer project and device configurations after completing the lab.

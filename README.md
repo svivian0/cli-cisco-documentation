@@ -1,6 +1,6 @@
 # Cisco Packet Tracer CLI — Documentation and Learning Guide
 
-An English (US) technical guide for learning how to configure, verify, and troubleshoot Cisco network devices through the command-line interface (CLI) in Cisco Packet Tracer.
+A technical guide for learning how to configure, verify, and troubleshoot Cisco network devices through the command-line interface (CLI) in Cisco Packet Tracer.
 
 The manual is designed as a practical reference: it introduces IOS navigation, interface configuration, VLANs, DHCP, connectivity checks, troubleshooting, and common operational practices.
 
